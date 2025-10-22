@@ -56,7 +56,7 @@ public class main {
     }
 
     public static String cariMahasiswaRataRataTertinggi(String[][] data) {
-        String[] namaMahasiswa = {"Budi", "Siti", "Andi"}; // Daftar nama siswa
+        String[] namaMahasiswa = {"Budi", "Siti", "Andi"};
         String namaTertinggi = "";
         double rataRataTertinggi = 0.0;
         

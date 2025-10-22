@@ -1,7 +1,7 @@
 package week4.datmas;
 
 public class DataMahasiswa {
-    // Data in the format: {NIM, Nama, Mata Kuliah, Nilai}
+
     public String[][] datmah = {
         {"A01", "Budi", "Pemrograman", "85"},
         {"A02", "Siti", "Pemrograman", "78"},

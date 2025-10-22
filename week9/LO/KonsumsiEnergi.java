@@ -1,0 +1,3 @@
+interface KonsumsiEnergi {
+    double hitungEnergiDibutuhkan();
+}
